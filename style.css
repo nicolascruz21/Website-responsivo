@@ -1,4 +1,4 @@
- :root {
+:root {
   --cor-primaria: #294B29;
   --cor-secundaria: #DBE7C9;
   --cor-fonte-primaria: #ffffff;
@@ -213,9 +213,11 @@ header a{
 }
 #servicos__3 img{
   width: 25rem;
+  filter: drop-shadow(0.8rem 0.8rem 0.8rem var(--cor-secundaria));     
 }
 #servicos__4 img{
   width: 25rem;
+  filter: drop-shadow(0.8rem 0.8rem 0.8rem var(--cor-secundaria));     
 }
 
  footer {
